@@ -186,8 +186,9 @@ This experience has been incredibly educational and has significantly boosted my
 
 #SQL #DataAnalysis #DataScience #LearningJourney #Project
 
-Paylaşımlarınızda beni etiketleyerek çalışmalarım hakkında geri bildirimlerinizi de paylaşırsanız çok sevinirim.
+#### Paylaşımlarınızda beni etiketleyerek çalışmalarım hakkında geri bildirimlerinizi de paylaşırsanız çok sevinirim 💛
 
-**İletişim Bilgilerim:**
-Instagram: @edayaldz
-https://www.linkedin.com/in/edayaldz/
+#### İletişim Bilgilerim:
+
+##### Instagram: @yildizkariyerim / https://www.instagram.com/yildizkariyerim/?hl=en
+##### LinkedIn: https://www.linkedin.com/in/edayaldz/
