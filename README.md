@@ -28,6 +28,7 @@ Tables:
 - Books ve Sales tablolarını oluşturma.
 - Örnek veri ekleme.
 
+```sql
 CREATE TABLE Books (
     book_id INT PRIMARY KEY,
     title VARCHAR(100),
@@ -53,6 +54,7 @@ INSERT INTO Sales (sale_id, book_id, sale_date, quantity) VALUES
 (1, 1, '2023-05-01', 2),
 (2, 2, '2023-05-02', 1),
 (3, 3, '2023-05-03', 4);
+```
 
 
 
