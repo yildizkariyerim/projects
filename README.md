@@ -55,7 +55,7 @@ INSERT INTO Sales (sale_id, book_id, sale_date, quantity) VALUES
 (2, 2, '2023-05-02', 1),
 (3, 3, '2023-05-03', 4);
 ```
-
+xdlkvnalkd
 
 
 
